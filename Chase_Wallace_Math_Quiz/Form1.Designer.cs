@@ -283,7 +283,7 @@
             // 
             this.startButton.AutoSize = true;
             this.startButton.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.startButton.Location = new System.Drawing.Point(304, 9);
+            this.startButton.Location = new System.Drawing.Point(280, 12);
             this.startButton.Name = "startButton";
             this.startButton.Size = new System.Drawing.Size(175, 39);
             this.startButton.TabIndex = 22;

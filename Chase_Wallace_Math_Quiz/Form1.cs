@@ -188,7 +188,6 @@ namespace Chase_Wallace_Math_Quiz
             // Display the current date and time as dd-month-yyyy
             DateTime dateTime = DateTime.Now;
             date.Text = dateTime.ToString("dd-MMM-yyyy");
-
         }
     }
 }
